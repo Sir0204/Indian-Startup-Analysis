@@ -119,7 +119,7 @@ The project was implemented and modified according to my own understanding and r
 ### 1. Clone the repository
 
 ```bash
-git clone <>
+git clone <https://github.com/Sir0204/Indian-Startup-Analysis.git>
 ```
 
 ### 2. Open the project folder
@@ -137,7 +137,7 @@ pip install -r requirements.txt
 ### 4. Run the Streamlit application
 
 ```bash
-streamlit run app.py
+streamlit run Website.py
 ```
 
 The dashboard will open in your browser.
